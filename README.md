@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Artenis
 
-<!--
-**artenisalija/artenisalija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & DevOps-focused engineer working with **Python, Docker, AWS, and Kubernetes**.  
+I keep my GitHub **intentional**: few projects, fully built, documented, and deployable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🐍 30 Days of Python, Docker & DevOps  
+A 30-day end-to-end challenge building **containerized backend systems** and deploying them using **Docker, CI/CD, AWS, and Kubernetes**.
+
+**Tech:** Python · FastAPI · Docker · GitHub Actions · AWS · Kubernetes · PostgreSQL  
+**Status:** ✅ Completed (30/30)
+
+👉 **Repo:** https://github.com/artenisalija/Python-in-30-days?tab=readme-ov-file#30-days-of-python--devops
+
+---
+
+### 🧩 README Combiner – VS Code Extension  
+**Published** open-source VS Code extension that combines all README files in a project into one.
+
+**Tech:** TypeScript · VS Code Extension API  
+**Status:** ✅ Live on VS Code Marketplace
+
+👉 **Marketplace:** https://marketplace.visualstudio.com/items?itemName=artenisalija.readme-combiner  
+👉 **Code:** https://github.com/artenisalija/Combine-ReadMe
+
+---
+
+📫 Open to **junior backend / DevOps roles** and serious project work.
