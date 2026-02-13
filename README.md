@@ -25,6 +25,7 @@ Built to be fully GitHub-friendly with **GitHub Actions automation**, **Docker C
 **Status:** ✅ Live / Active
 
 👉 **Repo:** https://github.com/artenisalija/Open-Job-Board-EU
+👉 **Public Link:** https://artenisalija.github.io/Open-Job-Board-EU/
 
 ---
 
