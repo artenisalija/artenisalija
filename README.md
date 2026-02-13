@@ -7,6 +7,17 @@ I keep my GitHub **intentional**: few projects, fully built, documented, and dep
 
 ## 🚀 Projects
 
+### 🛡️ BotShield  
+Open-source, self-hosted bot protection framework with an SDK-first integration model and optional user-owned Cloudflare Worker deployment.  
+Designed to work across stacks (custom apps, WordPress, Webflow) while keeping hosting fully in the user’s control.
+
+**Tech:** TypeScript · Cloudflare Workers · FastAPI · Docker · SDK Packaging  
+**Status:** ✅ Active / Open Source
+
+👉 **Repo:** https://github.com/artenisalija/Bot-Snatcher
+
+---
+
 ### 🐍 30 Days of Python, Docker & DevOps  
 A 30-day end-to-end challenge building **containerized backend systems** and deploying them using **Docker, CI/CD, AWS, and Kubernetes**.
 
@@ -24,7 +35,7 @@ Built to be fully GitHub-friendly with **GitHub Actions automation**, **Docker C
 **Tech:** Python · FastAPI · React · Docker Compose · GitHub Actions · Web Scraping  
 **Status:** ✅ Live / Active
 
-👉 **Repo:** https://github.com/artenisalija/Open-Job-Board-EU
+👉 **Repo:** https://github.com/artenisalija/Open-Job-Board-EU  
 👉 **Public Link:** https://artenisalija.github.io/Open-Job-Board-EU/
 
 ---
