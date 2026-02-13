@@ -17,6 +17,17 @@ A 30-day end-to-end challenge building **containerized backend systems** and dep
 
 ---
 
+### 🇪🇺 Open Job Board EU  
+Open-source job platform that scrapes EU company career pages, extracts job postings, serves them via **FastAPI**, and provides a searchable **React** frontend.  
+Built to be fully GitHub-friendly with **GitHub Actions automation**, **Docker Compose**, and public deployment support.
+
+**Tech:** Python · FastAPI · React · Docker Compose · GitHub Actions · Web Scraping  
+**Status:** ✅ Live / Active
+
+👉 **Repo:** https://github.com/artenisalija/Open-Job-Board-EU
+
+---
+
 ### 🧩 README Combiner – VS Code Extension  
 **Published** open-source VS Code extension that combines all README files in a project into one.
 
