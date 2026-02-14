@@ -51,4 +51,4 @@ Built to be fully GitHub-friendly with **GitHub Actions automation**, **Docker C
 
 ---
 
-📫 Open to **junior backend / DevOps roles** and serious project work.
+📫 Open to **junior backend / DevOps roles / AWS** and serious project work.
