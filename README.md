@@ -18,13 +18,18 @@ Designed to work across stacks (custom apps, WordPress, Webflow) while keeping h
 
 ---
 
-### 🐍 30 Days of Python, Docker & DevOps  
-A 30-day end-to-end challenge building **containerized backend systems** and deploying them using **Docker, CI/CD, AWS, and Kubernetes**.
+### 🛠 Developer Utility Toolkit
 
-**Tech:** Python · FastAPI · Docker · GitHub Actions · AWS · Kubernetes · PostgreSQL  
-**Status:** ✅ Completed (30/30)
+Security-focused, modular, format-aware Python CLI for common developer tasks including format conversion, encoding/decoding, hashing, validation, sitemap generation, and image utilities.
+Designed with secure defaults, deterministic one-step transformations, CI-enforced quality gates, and optional Docker distribution via GHCR.
 
-👉 **Repo:** https://github.com/artenisalija/Python-in-30-days?tab=readme-ov-file#30-days-of-python--devops
+**Tech:** Python · Typer · DefusedXML · Pillow (optional) · Pytest · Ruff · MyPy · Bandit · GitHub Actions · Docker · GHCR
+**Features:** Format Detection · Direct Conversions · JSON/XML Format & Validate · Encoding Utilities · 20+ Hash/Checksum Algorithms · Interactive Mode · Sitemap Tools · Local History
+**Status:** ✅ Active / Maintained
+
+👉 **PyPI:** [https://pypi.org/project/developer-utility-toolkit/](https://pypi.org/project/developer-utility-toolkit/)
+👉 **Docker (GHCR):** ghcr.io/artenisalija/developer-utility-kit
+👉 **Repo:** [https://github.com/artenisalija/developer-utility-toolkit](https://github.com/artenisalija/developer-utility-toolkit)
 
 ---
 
@@ -48,6 +53,16 @@ Built to be fully GitHub-friendly with **GitHub Actions automation**, **Docker C
 
 👉 **Marketplace:** https://marketplace.visualstudio.com/items?itemName=artenisalija.readme-combiner  
 👉 **Code:** https://github.com/artenisalija/Combine-ReadMe
+
+---
+
+### 🐍 30 Days of Python, Docker & DevOps  
+A 30-day end-to-end challenge building **containerized backend systems** and deploying them using **Docker, CI/CD, AWS, and Kubernetes**.
+
+**Tech:** Python · FastAPI · Docker · GitHub Actions · AWS · Kubernetes · PostgreSQL  
+**Status:** ✅ Completed (30/30)
+
+👉 **Repo:** https://github.com/artenisalija/Python-in-30-days?tab=readme-ov-file#30-days-of-python--devops
 
 ---
 
