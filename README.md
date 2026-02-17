@@ -1,15 +1,26 @@
-# 👋 Hi, I’m Artenis
-
+# 👋 Hi, I'm Artenis
 Backend & DevOps-focused engineer working with **Python, Docker, AWS, and Kubernetes**.  
 I keep my GitHub **intentional**: few projects, fully built, documented, and deployable.
+---
+## 🚀 Projects
+
+### 📄 Open PDF Converter  
+Free, privacy-first, browser-based PDF toolkit. All file processing runs **locally in your browser** — no uploads, no servers, no tracking.
+
+Supports a full suite of PDF operations: format conversion (Word, Excel, PowerPoint, images, text), OCR, editing, security, and advanced tools like signing, redacting, and form filling.
+
+**Tech:** React (CRA) · Tailwind CSS · pdf-lib · pdfjs-dist · tesseract.js · docx · xlsx · jszip · jspdf · file-saver  
+**Features:** Convert · OCR · Merge/Split · Compress · Rotate/Reorder · Watermark · Sign · Redact · Fill Forms · Add Page Numbers · Repair  
+**Status:** ✅ Active / Open Source
+
+👉 **App:** https://artenisalija.github.io/OpenPDFConverter  
+👉 **Repo:** https://github.com/artenisalija/OpenPDFConverter
 
 ---
 
-## 🚀 Projects
-
 ### 🛡️ BotShield  
 Open-source, self-hosted bot protection framework with an SDK-first integration model and optional user-owned Cloudflare Worker deployment.  
-Designed to work across stacks (custom apps, WordPress, Webflow) while keeping hosting fully in the user’s control.
+Designed to work across stacks (custom apps, WordPress, Webflow) while keeping hosting fully in the user's control.
 
 **Tech:** TypeScript · Cloudflare Workers · FastAPI · Docker · SDK Packaging  
 **Status:** ✅ Active / Open Source
@@ -19,12 +30,12 @@ Designed to work across stacks (custom apps, WordPress, Webflow) while keeping h
 ---
 
 ### 🛠 Developer Utility Toolkit
-
 Security-focused, modular, format-aware Python CLI for common developer tasks including format conversion, encoding/decoding, hashing, validation, sitemap generation, and image utilities.
+
 Designed with secure defaults, deterministic one-step transformations, CI-enforced quality gates, and optional Docker distribution via GHCR.
 
-**Tech:** Python · Typer · DefusedXML · Pillow (optional) · Pytest · Ruff · MyPy · Bandit · GitHub Actions · Docker · GHCR
-**Features:** Format Detection · Direct Conversions · JSON/XML Format & Validate · Encoding Utilities · 20+ Hash/Checksum Algorithms · Interactive Mode · Sitemap Tools · Local History
+**Tech:** Python · Typer · DefusedXML · Pillow (optional) · Pytest · Ruff · MyPy · Bandit · GitHub Actions · Docker · GHCR  
+**Features:** Format Detection · Direct Conversions · JSON/XML Format & Validate · Encoding Utilities · 20+ Hash/Checksum Algorithms · Interactive Mode · Sitemap Tools · Local History  
 **Status:** ✅ Active / Maintained
 
 👉 **PyPI:** https://pypi.org/project/developer-utility-toolkit/<br>
