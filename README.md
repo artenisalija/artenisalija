@@ -40,7 +40,7 @@ Designed with secure defaults, deterministic one-step transformations, CI-enforc
 
 👉 **PyPI:** https://pypi.org/project/developer-utility-toolkit/<br>
 👉 **Docker (GHCR):** ghcr.io/artenisalija/developer-utility-kit<br>
-👉 **Repo:** https://github.com/artenisalija/developer-utility-toolkit/
+👉 **Repo:** [https://github.com/artenisalija/developer-utility-toolkit/](https://github.com/artenisalija/developer-utility-kit)
 
 ---
 
