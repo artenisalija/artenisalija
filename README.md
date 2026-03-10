@@ -84,7 +84,7 @@ A 30-day hands-on intensive covering both red team and blue team fundamentals �
 **Labs:** OverTheWire · VulnHub · DVWA · Juice Shop · HackTheBox · CyberDefenders · LetsDefend  
 **Status:** ✅ Completed (30/30)
 
-👉 **Repo:** https://github.com/artenisalija/cybersecurity-0-100-challenge
+👉 **Repo:** [https://github.com/artenisalija/cybersecurity-0-100-challenge](https://github.com/artenisalija/Cybersecurity-in-30-days)
 
 ---
 
