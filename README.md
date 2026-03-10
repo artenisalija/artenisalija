@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Artenis
 Backend & DevOps-focused engineer working with **Python, Docker, AWS, and Kubernetes**.  
 I keep my GitHub **intentional**: few projects, fully built, documented, and deployable.
+
 ---
+
 ## 🚀 Projects
 
 ### 📄 Open PDF Converter  
 Free, privacy-first, browser-based PDF toolkit. All file processing runs **locally in your browser** — no uploads, no servers, no tracking.
-
 Supports a full suite of PDF operations: format conversion (Word, Excel, PowerPoint, images, text), OCR, editing, security, and advanced tools like signing, redacting, and form filling.
 
 **Tech:** React (CRA) · Tailwind CSS · pdf-lib · pdfjs-dist · tesseract.js · docx · xlsx · jszip · jspdf · file-saver  
@@ -31,7 +32,6 @@ Designed to work across stacks (custom apps, WordPress, Webflow) while keeping h
 
 ### 🛠 Developer Utility Toolkit
 Security-focused, modular, format-aware Python CLI for common developer tasks including format conversion, encoding/decoding, hashing, validation, sitemap generation, and image utilities.
-
 Designed with secure defaults, deterministic one-step transformations, CI-enforced quality gates, and optional Docker distribution via GHCR.
 
 **Tech:** Python · Typer · DefusedXML · Pillow (optional) · Pytest · Ruff · MyPy · Bandit · GitHub Actions · Docker · GHCR  
@@ -74,6 +74,17 @@ A 30-day end-to-end challenge building **containerized backend systems** and dep
 **Status:** ✅ Completed (30/30)
 
 👉 **Repo:** https://github.com/artenisalija/Python-in-30-days?tab=readme-ov-file#30-days-of-python--devops
+
+---
+
+### 🔐 Cybersecurity 0→100 Challenge  
+A 30-day hands-on intensive covering both red team and blue team fundamentals — from Linux internals and network recon to exploitation, privilege escalation, malware analysis, and threat hunting.
+
+**Covered:** Linux · Networking · OSINT · Web Exploitation (SQLi, XSS, LFI, File Upload) · Metasploit · Linux & Windows PrivEsc · Active Directory · Log Analysis · SIEM · Malware Analysis · Python Security Tooling  
+**Labs:** OverTheWire · VulnHub · DVWA · Juice Shop · HackTheBox · CyberDefenders · LetsDefend  
+**Status:** ✅ Completed (30/30)
+
+👉 **Repo:** https://github.com/artenisalija/cybersecurity-0-100-challenge
 
 ---
 
