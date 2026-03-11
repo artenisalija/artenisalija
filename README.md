@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Artenis
 Backend & DevOps-focused engineer working with **Python, Docker, AWS, and Kubernetes**.  
-I keep my GitHub **intentional**: few projects, fully built, documented, and deployable.
+I keep my GitHub **intentional**: few projects, fully built, documented, and deployable. I have also done a 30 Days if Cybersecurity clurse to get the besic skills in blue team and red team.
+Below you will see my public projects. 
 
 ---
 
