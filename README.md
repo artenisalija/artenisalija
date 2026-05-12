@@ -89,4 +89,19 @@ A 30-day hands-on intensive covering both red team and blue team fundamentals �
 
 ---
 
-📫 Open to **junior backend / DevOps roles / AWS** and serious project work.
+### 🔐 LinkedIn AI Auto-Poster 
+Automatically posts AI-generated LinkedIn content 3× per day, sourced from trending discussions across Reddit, Hacker News, Dev.to, Lobste.rs, Medium, and Product Hunt — powered by your choice of Groq, OpenAI, or Anthropic.
+
+How It Works
+
+Schedule (3×/day)
+  → Fetch Reddit + HN + Dev.to + Lobste.rs (+ any custom sources)
+  → Normalize & merge all posts
+  → Pick top 6 by score → build prompt
+  → AI generates LinkedIn post (Groq / OpenAI / Anthropic)
+  → Post to LinkedIn via API
+
+
+👉 **Repo:** [https://github.com/artenisalija/linkedin-ai-autoposter](https://github.com/artenisalija/linkedin-ai-autoposter)
+
+
