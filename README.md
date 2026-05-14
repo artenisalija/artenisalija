@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Artenis
-Backend & DevOps-focused engineer working with **Python, Docker, AWS, and Kubernetes**.  
-I keep my GitHub **intentional**: few projects, fully built, documented, and deployable. I have also done a 30 Days if Cybersecurity clurse to get the besic skills in blue team and red team.
-Below you will see my public projects. 
+I build **AI-powered automation systems** for service businesses — production n8n workflows that handle the work people don't want to do (chasing payments, qualifying leads, publishing content, scheduling, social posting), powered by **Groq / OpenAI / Anthropic**.
+
+On the side, I'm a **Backend & DevOps engineer** (Python, Docker, AWS, Kubernetes) with a 30-day cybersecurity foundation covering both blue team and red team basics.
+
+I keep my GitHub **intentional**: every project here is fully built, documented, and deployable. Start with the automations below — the rest of the projects come after.
 
 ---
 
