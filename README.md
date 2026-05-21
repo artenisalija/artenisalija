@@ -21,6 +21,7 @@ I build production AI-powered automation systems — mostly on **n8n** + **Groq 
 | **[appointment-scheduling-automation-public](https://github.com/artenisalija/appointment-scheduling-automation-public)** | Public n8n appointment scheduling automation template |
 | **[inbound-lead-qualification-public](https://github.com/artenisalija/inbound-lead-qualification-public)** | Public n8n workflows for inbound lead qualification and follow-up |
 | **[linkedin-ai-autoposter](https://github.com/artenisalija/linkedin-ai-autoposter)** | n8n workflow + generator UI for AI-powered LinkedIn auto-posting |
+| **[linkedin-safe-outreach-n8n](https://github.com/artenisalija/linkedin-safe-outreach-n8n)** | Low-volume, human-paced LinkedIn connection request workflow for n8n |
 | **[n8n-invoice-payment-followup-public](https://github.com/artenisalija/n8n-invoice-payment-followup-public)** | Open-source n8n workflows: AI-generated escalating payment reminders for unpaid invoices, with Stripe + manual payment confirmation that stops reminders instantly. Built-in n8n nodes only. |
 | **[n8n-social-media-autopost-public](https://github.com/artenisalija/n8n-social-media-autopost-public)** | n8n workflow that auto-posts to LinkedIn, Instagram, Twitter/X, YouTube Shorts, and TikTok every morning from a Google Sheet — one post per platform per day, status-driven. |
 <!-- AI-AUTOMATIONS:END -->
